@@ -3,7 +3,11 @@
 hello mahesh
 hello raj
 changed by A
+<<<<<<< HEAD
 changed by me
 test diff
 test diff1
 test git diff head
+=======
+changed by B
+>>>>>>> 69bbec37f2dd0e91c019d3ffcfceb9ec3f772cda
