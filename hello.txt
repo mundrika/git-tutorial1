@@ -6,3 +6,4 @@ changed by A
 changed by me
 test diff
 test diff1
+test git diff head
